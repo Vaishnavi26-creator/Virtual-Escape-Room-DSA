@@ -1,12 +1,8 @@
-# Java compiled files
-*.class
 bin/
+*.class
 
-# Eclipse
 .settings/
+.classpath
+.project
 
-# VS Code
 .vscode/
-
-# Logs
-*.log
